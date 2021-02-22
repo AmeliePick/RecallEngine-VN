@@ -1,0 +1,23 @@
+# .gitignore for RecallEngine-VN
+
+
+.vs/
+.vscode/
+
+src/x64
+src/Debug
+bin/
+build/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# resource files
+*.ico
+*.jpg
+*.png
+*.psd
+*.ogg
+*.mp3
